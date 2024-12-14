@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int plusFuncInt(int x, int Y){
+  return x+Y;
+}
+ double plusFuncDouble(double x, double Y){
+   return x+Y;
+ }
+int main(){
+ int my Num1=PlusFunctionInt(8,5);
+  double myNum2= plusFuncDoubl(4.3,3.6);
+cout << "Int:" << myNum1 << "\n";
+cout << "Double:" << myNum2;
+return 0;
+}
